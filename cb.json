@@ -1,7 +1,9 @@
 [
-  {"name": "ImmortalsFenyxRising",
+  {"name": "Hitman 3",
    "image": "",
-   "application":"",
-   "cloudlink":"dropit:Immortals.Fenyx.Rising"
+   "application":"\HITMAN3\Launcher.exe",
+   "sizez":"60 GB",
+   "savepathdir":"C:\Users\{username}\AppData\Roaming\IO Interactive\Epic\1638\HITMAN3",
+   "cloudlink":"dropit:Hitman3.M5.3.11"
   }
 ]
